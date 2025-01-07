@@ -28,6 +28,6 @@ Nada é fácil. rs.
 
 ### Resultado, livro
 
-- [E-BOOK](/exemplos/E-BOOK.md)
+- https://github.com/jmichelkim/dio-lab-natty-or-not/blob/main/exemplos/IAS%20GENERATIVAS%20-%20INTROCUCAO.pdf
 
 
