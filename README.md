@@ -5,26 +5,29 @@
 E-book das IAs Generativas.
 
 ## 🤖 Tecnologias Utilizadas
-Copilot.
+Chat GPT e Copilot.
 
 ## 🧐 Processo de Criação
-Para criar este e-book, fui ao copilot e solicitei que criasse um e-book com capa com imagem, índice, introdução, descrição rápidas sobre o que é uma IA generativa, uma lista com um resumo das 10 IAs generativas mais utilizadas.
+Para criar este e-book, fui ao GPT e solicitei que criasse um e-book com capa com imagem, índice, introdução, descrição rápidas sobre o que é uma IA generativa, uma lista com um resumo das 10 IAs generativas mais utilizadas.
+Ele não me entregou dizendo que eu deveria assinar o plano Plus.
+
+Depois fui ao copilot e pedi um ebook sem imagens, e ele me entregou esse disponibilizado.
 
 ## 🚀 Resultados
-Após a solicitação, esperei aproximadamente 12:09 e foi-me entregue o e-book disponibilizado abaixo.
+GPT
+Após a solicitação ao Chat GPT esperei aproximadamente 20 minutos e Ele não me entregou dizendo que eu deveria assinar o plano Plus. Tentei de diversas formas e nada, somente assinando o plano plus.
+
+Copilot.
+Pedi um ebook sem imagens, com as mesmas descições acima e ele me entregou esse disponibilizado.
+Me enviou em texto puro, tive que copiar, colocar no editor de texto e salvar em pdf.
 :
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Muito bom, dá trabalho, tem que ter paciência, assinar um plano bom se for o caso.
+Nada é fácil. rs.
 ```
 
-### Exemplos e Insigths
+### Resultado, livro
 
 - [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
